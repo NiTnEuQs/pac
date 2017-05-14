@@ -1,3 +1,6 @@
 # Fichiers de cours
 *.pages
 *.pdf
+
+# Fichiers zip
+*.zip
